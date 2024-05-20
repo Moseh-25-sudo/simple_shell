@@ -1,7 +1,5 @@
 #include "shell.h"
 
-/********** memory_functions **********/
-
 /**
  * bfree - frees a pointer and NULLs the address
  * @ptr: address of the pointer to free

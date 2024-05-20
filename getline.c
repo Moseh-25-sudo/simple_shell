@@ -1,7 +1,5 @@
 #include "shell.h"
 
-/********** getline **********/
-
 /**
  * input_buf - buffers chained commands
  * @info: parameter struct

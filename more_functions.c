@@ -1,7 +1,5 @@
 #include "shell.h"
 
-/********** more_functions **********/
-
 /**
  * interactive - returns true if shell is interactive mode
  * @info: struct address

@@ -1,7 +1,5 @@
 #include "shell.h"
 
-/****************** Built in emulators ****************/
-
 /**
  * _myexit - exits the shell
  * @info: Structure containing potential arguments. Used to maintain
